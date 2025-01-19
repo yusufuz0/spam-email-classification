@@ -3,11 +3,15 @@ This project involves training a machine learning model for spam email detection
 
 
 Project Summary
+
 In this project, the following steps were carried out for spam email classification:
 
 Data Cleaning: The dataset was analyzed, unnecessary columns were removed, and duplicate records were cleaned. HTML tags, URLs, and unnecessary spaces were cleaned from the email contents.
+
 Text Preprocessing: The text data was converted into a numerical format using the TF-IDF vectorization technique.
+
 Model Training: A classifier was trained using the Logistic Regression algorithm.
+
 Model Evaluation: The model was tested using accuracy, Precision, Recall, and F1-Score metrics.
 
 
